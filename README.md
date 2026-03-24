@@ -29,7 +29,7 @@ O conjunto de dados contém informações sobre clientes do banco, incluindo var
 - salário estimado
 - indicador de evasão do cliente
 
-Arquivo utilizado no projeto:
+O arquivo utilizado no projeto está organizado na pasta `datasets/`:
 
 - `churn.csv`
 
@@ -72,8 +72,9 @@ beta-bank-churn-prediction/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-├── churn.csv
-└── beta_bank_churn_prediction.ipynb
+├── beta_bank_churn_prediction.ipynb
+└── datasets/
+    └── churn.csv
 ````
 
 ## Como executar

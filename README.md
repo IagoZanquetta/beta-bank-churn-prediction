@@ -33,6 +33,10 @@ O arquivo utilizado no projeto está organizado na pasta `datasets/`:
 
 - `churn.csv`
 
+## Objetivo do Projeto
+
+Desenvolver um modelo de machine learning capaz de prever a evasão de clientes do Beta Bank, com foco em identificar padrões úteis para antecipação de churn e direcionamento de estratégias de retenção.
+
 ## Objetivos da Análise
 
 Este projeto busca responder perguntas como:
@@ -114,6 +118,8 @@ Entre os principais focos do projeto, estão:
 
 ## Resultados
 
+Preparação dos dados, comparação de diferentes modelos de classificação e seleção de uma abordagem adequada para o problema de churn. Demonstração da possibilidade de transformar dados históricos de perfil e comportamento financeiro em suporte prático para decisões de retenção, com destaque para variáveis relevantes na identificação de clientes em maior risco de saída.
+
 O notebook inclui:
 
 * exploração inicial dos dados
@@ -126,6 +132,23 @@ O notebook inclui:
 ## Conclusão
 
 Este projeto demonstra como técnicas de machine learning podem ser aplicadas para prever a evasão de clientes em um contexto bancário. A construção e avaliação de modelos preditivos permitem transformar dados históricos em suporte prático para decisões estratégicas, ajudando a identificar clientes em risco e a orientar ações de retenção mais eficientes.
+
+## O que foi aprendido
+
+Desenvolvimento e consolidação de habilidades em:
+- preparação de dados para machine learning
+- tratamento de variáveis categóricas e numéricas
+- comparação de modelos de classificação
+- avaliação com métricas apropriadas para churn
+- interpretação de resultados preditivos em contexto bancário
+
+## Melhorias Futuras
+
+Possibilidades de evolução do projeto:
+- testar técnicas adicionais para balanceamento de classes
+- ampliar a busca de hiperparâmetros
+- incluir análise de importância de variáveis mais aprofundada
+- comparar modelos mais avançados de boosting
 
 ## Autor
 
